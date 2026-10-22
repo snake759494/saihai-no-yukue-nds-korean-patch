@@ -1,0 +1,8 @@
+ndspy
+py-desmume
+Pillow
+numpy
+opencv-python
+scipy
+capstone
+keystone-engine

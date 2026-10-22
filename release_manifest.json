@@ -1,0 +1,31 @@
+{
+  "game": "지휘봉의 행방 (采配のゆくえ)",
+  "platform": "Nintendo DS",
+  "game_code": "CI8J",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "repository": "snake759494/saihai-no-yukue-nds-korean-patch",
+  "release_asset": {
+    "name": "Saihai_no_Yukue_KR.xdelta",
+    "bytes": 4494372,
+    "sha256": "ca160d0e0095def4b52b142683bcd2d32bd98d42f41d8c361602d1fd1e086fb7"
+  },
+  "source": {
+    "name": "Saihai no Yukue (Japan).nds",
+    "bytes": 67108864,
+    "sha256": "d30f73b31e3083a28a405786c6e83abd465c6304f322b7b137b850746b3a216f"
+  },
+  "output": {
+    "name": "Saihai no Yukue (Korean).nds",
+    "bytes": 63049320,
+    "sha256": "a3f7911ec03deef6dfa6b8fbf96b443cd744ab330c8a44524115b6a8f2d7eb0a"
+  },
+  "xdelta_options": [
+    "-0",
+    "-S",
+    "none"
+  ],
+  "reconstruction_matches": true,
+  "unique_units": 18629,
+  "runtime_full_playthrough": false
+}
